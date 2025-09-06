@@ -1,12 +1,19 @@
 
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
-
-# Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
+# DATE:06/09/2025
+# REG.NO:212223230199
+# Aim: 
+To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
 
+ChatGPT (tested with GPT-5 model)
+
+Any text editor/spreadsheet for recording outputs
+
 # Explanation: 
+
 Define the Two Prompt Types:
 
 Write a basic Prompt: Clear, detailed, and structured prompts that give specific instructions or context to guide the model.
@@ -33,6 +40,37 @@ Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatG
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
 
-# OUTPUT
+# OUTPUT :
 
-# RESULT: The prompt for the above said problem executed successfully
+# Definition of Prompt Types :
+
+Naïve Prompt: A broad, vague, or unstructured request with little guidance.
+
+Basic Prompt: A clear, detailed, and structured request with explicit instructions.
+
+<img width="1034" height="598" alt="Screenshot 2025-09-06 112905" src="https://github.com/user-attachments/assets/abc2f614-dbbb-4b02-bd49-bba8834efbe2" />
+
+<img width="1223" height="577" alt="Screenshot 2025-09-06 112947" src="https://github.com/user-attachments/assets/c4c3de0b-8204-4544-9ea6-3aa4d5881956" />
+
+# Analysis :
+
+Quality: Basic prompts consistently gave structured and detailed outputs, while naïve prompts were vague and generic.
+
+Accuracy: With basic prompts, the responses contained fewer gaps and errors. Naïve prompts sometimes missed key information.
+
+Depth: Structured prompts encouraged multi-dimensional answers (definition, examples, applications), unlike naïve prompts which were surface-level.
+
+Exceptions: In very creative/open-ended tasks (like story writing), naïve prompts sometimes produced fun unexpected results, but still lacked depth compared to refined prompts.
+
+# Summary of Findings :
+
+Prompt clarity directly impacts output quality. The more specific and structured the prompt, the better the response.
+
+Naïve prompts can work for open creativity but risk incomplete or shallow responses.
+
+Basic prompts provide higher accuracy, richer content, and more practical results in most scenarios.
+
+Best Practice: When using ChatGPT (or any AI tool), invest time in writing clear, context-rich prompts with explicit instructions to maximize effectiveness.
+
+# RESULT : 
+The prompt for the above said problem executed successfully
